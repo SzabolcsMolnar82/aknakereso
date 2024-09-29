@@ -1,5 +1,5 @@
 const boardSize = 10; // define the board size
-const mineCount = 20; // define the number of mines
+const mineCount = 10; // define the number of mines
 let board = []; // the minesweeper board to initilaize the place to play
 
 function initBoard() {  // function to initialize game board
